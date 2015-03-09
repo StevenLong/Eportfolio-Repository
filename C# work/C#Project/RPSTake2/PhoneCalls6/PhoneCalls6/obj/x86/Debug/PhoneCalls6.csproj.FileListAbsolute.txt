@@ -1,0 +1,4 @@
+C:\Users\Steven\Desktop\C#Project\RPSTake2\PhoneCalls6\PhoneCalls6\bin\Debug\PhoneCalls6.exe
+C:\Users\Steven\Desktop\C#Project\RPSTake2\PhoneCalls6\PhoneCalls6\bin\Debug\PhoneCalls6.pdb
+C:\Users\Steven\Desktop\C#Project\RPSTake2\PhoneCalls6\PhoneCalls6\obj\x86\Debug\PhoneCalls6.exe
+C:\Users\Steven\Desktop\C#Project\RPSTake2\PhoneCalls6\PhoneCalls6\obj\x86\Debug\PhoneCalls6.pdb

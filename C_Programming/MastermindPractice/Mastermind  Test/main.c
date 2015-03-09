@@ -1,0 +1,96 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define false 0
+#define true 1
+
+
+int main()
+{
+	srand( (unsigned)time( NULL ) );
+	int play_or_instruct;
+	int get_random;
+	int max_tries;
+	int get_answer;
+	int print_answer;
+	int count_equal;
+	int correctplace=0;
+	int run,a;
+	int correctdigit=0;
+	int secret_code[5];
+	int answer[5];
+	int check[5];
+	printf("\nWelcome to mastermind.\n");
+	printf("press 1 to play, press 2 for instructions :");
+	scanf("%d",&play_or_instruct);
+	if (play_or_instruct==2)		/*check for playing the game or instructions*/
+	{
+	        printf("\n\nThe goal of the game is to guess the secret\n");
+		printf("secret code. You have 10 tries for this.\n");
+		printf("The code contains 5 random numbers from 0 - 9.\n");
+		printf("Every \'*\' you see next to your input, \n");
+		printf("means that you have one number correct and\n");
+		printf("at the right place.\n");
+		printf("Every \'0\' you see next to your input,\n");
+		printf("means that you have one number correct, but\n");
+		printf("not at the right place.\n");
+		play_or_instruct=1;
+	}
+	if (play_or_instruct ==1)
+	{
+		printf("\nHere we go....\n\n");
+
+		for (get_random = 0; get_random <5; get_random++) /*get the secret code with the*/
+		    	secret_code[get_random] = rand()%10;	/*random function*/
+ 		for(max_tries=0;max_tries<=10;max_tries++)	/*count number of tries*/
+		{
+			printf("\nEnter your guess: ");
+			for(get_answer=0;get_answer<=4;get_answer++)/*get the answer given*/
+			{
+				scanf("%d",&answer[get_answer]);
+			}
+			printf("\n");
+			for(print_answer=0;print_answer<=4;print_answer++)/*print the answer*/
+				printf("%d",answer[print_answer]);/*given to the screen*/
+			printf("\t");
+			check[get_answer] = false;
+			for (get_answer = 0; get_answer < 5; get_answer++)
+			{
+   				if (answer[get_answer] == secret_code[get_answer])
+   				{
+      					correctplace++;
+      					check[get_answer] = true;
+   				}
+			}
+
+			for (get_answer = 0; get_answer < 5; get_answer++)
+			{
+			   for (run = 0; run < 5; run++)
+			   {
+			      if ((answer[get_answer] == secret_code[run]) && (check[run] == false))
+			      {
+			         correctdigit++;
+			         check[run] = true;
+			      }
+			   }
+			}
+			if(correctplace ==5)
+			{
+				printf("\nCongratulations, you've won!\n");
+				return 0;
+			}
+			for(;correctplace >=0;correctplace--)
+				printf("*");
+			for(;correctdigit >=0;correctdigit--)
+				printf("0");
+			printf("\n");
+			if(max_tries==10)/*if maximum number of tries have passed, let them know*/
+			{			/*they didn't made it and end the game*/
+				printf("\nUnfortunately you did not make it.\n");
+				return 0;
+			}
+		}
+	}
+	return 0;
+}

@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.Form1.resources
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.Properties.Resources.resources
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\bin\Debug\RPSForm.exe
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\bin\Debug\RPSForm.pdb
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.exe
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.pdb
+C:\Users\Steven\Desktop\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\C# crap\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.exe
+C:\Users\Steven\Desktop\C# crap\C#Project\RPSTake2\RPSForm\RPSForm\obj\x86\Debug\RPSForm.pdb

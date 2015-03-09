@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417277317 source:c:\users\steven\desktop\c_programming\mastermind  test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<math.h>
+	<string.h>
+

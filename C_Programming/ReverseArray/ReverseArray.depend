@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417878093 source:c:\users\steven\desktop\c_programming\reversearray\main.cpp
+	<iostream>
+	<stdio.h>
+

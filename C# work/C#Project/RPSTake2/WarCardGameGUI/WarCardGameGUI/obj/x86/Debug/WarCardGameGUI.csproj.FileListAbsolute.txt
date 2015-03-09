@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.pdb
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.WarCardGameGUI.resources
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.Properties.Resources.resources
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.exe
+C:\Users\Steven\Desktop\C#Project\RPSTake2\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.pdb

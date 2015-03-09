@@ -1,0 +1,15 @@
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.warForm.resources
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.Properties.Resources.resources
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.pdb
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.exe
+C:\Users\Steven\Desktop\WarCardGame\WarCardGame\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.pdb
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.exe
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.pdb
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.pdb
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.warForm.resources
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.Properties.Resources.resources
+C:\Users\Steven\Desktop\WarCardGameGUI\WarCardGameGUI\obj\x86\Debug\WarCardGameGUI.csproj.GenerateResource.Cache

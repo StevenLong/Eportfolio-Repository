@@ -1,0 +1,76 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="CS_GO_Shopping_List.Rifles"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="CS:GO Shopping List" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Rifles" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="awpButton" Content="AWP&#xA;$4750" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="awpButton_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/Awp.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="ak47Button" Content="AK-47&#xA;$2700" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="ak47Button_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/Ak47.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="m4a4Button" Content="M4A4&#xA;$3100" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="m4a4Button_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/M4A4.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="ssg08Button" Content="SSG 08&#xA;$1700" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="ssg08Button_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/SSG08.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="augButton" Content="AUG&#xA;$3300" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="augButton_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/AUG.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="g3Button" Content="G3SG1&#xA;$5000" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="g3Button_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/G3.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="sg553Button" Content="SG 553&#xA;$3000" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="sg553Button_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/SG553.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="scar20Button" Content="SCAR-20&#xA;$5000" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="scar20Button_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/SCAR20.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="famasButton" Content="FAMAS&#xA;$2250" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="famasButton_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/FAMAS.png" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="galilARButton" Content="Galil AR&#xA;$2000" Height="auto" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Click="galilARButton_Click" Margin="5"/>
+                    <Image Source="/Assets/Images/GalilAR.png" Margin="5"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

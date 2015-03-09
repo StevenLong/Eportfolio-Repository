@@ -1,0 +1,28 @@
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\CS GO Shopping List.dll
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\CS GO Shopping List.pdb
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\AppManifest.xaml
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\Bin\Debug\CS_GO_Shopping_List_Debug_AnyCPU.xap
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\App.g.cs
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\MainPage.g.cs
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\CS GO Shopping List.g.resources
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\CS_GO_Shopping_List.Resources.AppResources.resources
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\CS GO Shopping List.csproj.GenerateResource.Cache
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\CS GO Shopping List.dll
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\CS GO Shopping List.pdb
+c:\users\steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\XapCacheFile.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\Weapons.g.cs
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\Pistols.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\CartPage.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\Shotguns.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\SubmachineGuns.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\MachineGuns.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\Grenades.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\Rifles.g.cs
+C:\Users\Steven\documents\visual studio 2012\Projects\CS GO Shopping List\CS GO Shopping List\obj\Debug\Equip.g.cs
